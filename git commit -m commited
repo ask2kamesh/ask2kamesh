@@ -1,0 +1,30 @@
+[33mcommit 34375ea2cbeaa31233f2bba534f06d1014fd47f5[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mFirstBranch[m[33m)[m
+Author: ask2kamesh <ask2kamesh@gmail.com>
+Date:   Sun Apr 9 10:56:22 2023 +0530
+
+    4th Commit
+
+[33mcommit f73013275bad3cb6461a812a69e7623a0a425ead[m
+Merge: 2730b71 f8cf841
+Author: ask2kamesh <ask2kamesh@gmail.com>
+Date:   Sun Apr 9 10:53:41 2023 +0530
+
+    Merge branch 'master' into FirstBranch
+
+[33mcommit f8cf8413de9d54749389253b2691394fbb9664af[m[33m ([m[1;32mmaster[m[33m)[m
+Author: ask2kamesh <ask2kamesh@gmail.com>
+Date:   Sun Apr 9 10:53:09 2023 +0530
+
+    3rd Commit
+
+[33mcommit 2730b71ff0de0bfb70f1d47617ee9b0b3d3e129c[m
+Author: ask2kamesh <ask2kamesh@gmail.com>
+Date:   Sun Apr 9 10:35:16 2023 +0530
+
+    2nd Commit
+
+[33mcommit 25a0fa265fa9a2196d2390363cec78cabaa61363[m
+Author: ask2kamesh <ask2kamesh@gmail.com>
+Date:   Sun Apr 9 10:29:01 2023 +0530
+
+    1st Commit

@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1a6e68a..bce0354 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,8 +6,6 @@[m
+     </head>[m
+     <body>[m
+         <h1>This is a Headding</h1>[m
+[31m-        <h2>This is a Headding</h2>[m
+[31m-        <h6>This is a Smallest Headding</h6>[m
+ [m
+     </body>[m
+ </html>[m
+\ No newline at end of file[m
